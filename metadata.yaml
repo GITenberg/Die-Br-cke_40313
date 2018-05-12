@@ -1,0 +1,25 @@
+_repo: Die-Br-cke_40313
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holland, Alfred
+    gutenberg_agent_id: '40547'
+    url: http://www.gutenberg.org/2009/agents/40547
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2012-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40313'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German literature -- 20th century'
+- !lcc 'PT'
+title: Die Brücke
+url: http://www.gutenberg.org/ebooks/40313
